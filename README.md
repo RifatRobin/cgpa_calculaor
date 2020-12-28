@@ -1,5 +1,5 @@
 # cgpa_calculaor
-********************************************  DOWNLOAD IT HERE  **********************************************************
+********************************************  DOWNLOAD IT FROM HERE  **********************************************************
 
 https://github.com/RifatRobin/cgpa_calculaor/blob/master/dist/cgpa_calcolator.exe
 
